@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DroidTech" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FF29B8CC</item>
+        <item name="android:navigationBarColor">#FF29B8CC</item>
+        <item name="android:statusBarColor">#FF29B8CC</item>
+    </style>
+</resources>
